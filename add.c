@@ -12,6 +12,8 @@ int y = atoi(argv[2]);
 
 int result =  x + y;
 
+printf("change");
+
 printf("%d", result);
 
 return 0;
